@@ -1,0 +1,20 @@
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.deps.json
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.AssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\EntityLayer\obj\Debug\netcoreapp3.1\EntityLayer.pdb

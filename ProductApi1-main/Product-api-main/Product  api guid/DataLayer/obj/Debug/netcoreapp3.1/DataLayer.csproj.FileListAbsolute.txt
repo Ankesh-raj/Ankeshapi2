@@ -1,0 +1,32 @@
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CopyComplete
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache

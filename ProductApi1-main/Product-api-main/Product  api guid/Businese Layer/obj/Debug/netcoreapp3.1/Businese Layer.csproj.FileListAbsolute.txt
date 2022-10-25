@@ -1,0 +1,30 @@
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\bin\Debug\netcoreapp3.1\Businese Layer.deps.json
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\bin\Debug\netcoreapp3.1\Businese Layer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\bin\Debug\netcoreapp3.1\Businese Layer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.csproj.AssemblyReference.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.AssemblyInfoInputs.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.AssemblyInfo.cs
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.csproj.CoreCompileInputs.cache
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\Ankesh Raj\source\repos\ProductApi\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.csproj.CopyComplete
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\bin\Debug\netcoreapp3.1\Businese Layer.deps.json
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\bin\Debug\netcoreapp3.1\Businese Layer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\bin\Debug\netcoreapp3.1\Businese Layer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\bin\Debug\netcoreapp3.1\DataLayer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\bin\Debug\netcoreapp3.1\EntityLayer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\bin\Debug\netcoreapp3.1\EntityLayer.pdb
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.csproj.AssemblyReference.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.AssemblyInfoInputs.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.AssemblyInfo.cs
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.csproj.CoreCompileInputs.cache
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.csproj.CopyComplete
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.dll
+C:\Users\ankesh.raj\Downloads\Product-api-main\Product-api-main\Product  api guid\Businese Layer\obj\Debug\netcoreapp3.1\Businese Layer.pdb
